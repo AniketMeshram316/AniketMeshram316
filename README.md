@@ -14,6 +14,8 @@ Hey there! 👋 I'm Aniket Meshram, a passionate DevOps Engineer on a mission to
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AniketMeshram316&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketMeshram316&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
