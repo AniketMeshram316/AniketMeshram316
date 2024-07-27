@@ -17,7 +17,7 @@ Hey there! 👋 I'm Aniket Meshram, a passionate DevOps Engineer on a mission to
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<img align="right" alt="coding" width="300" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmemes.getyarn.io%2Fyarn-clip%2F7bbd7149-a830-48b6-a877-84f4439b7115%2Fgif&psig=AOvVaw1XlFdAFWSHeLsDzw0VDX39&ust=1722185326439000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjH3MXWx4cDFQAAAAAdAAAAABAE]">
+<img align="right" alt="coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmemes.getyarn.io%2Fyarn-clip%2F7bbd7149-a830-48b6-a877-84f4439b7115%2Fgif&psig=AOvVaw1XlFdAFWSHeLsDzw0VDX39&ust=1722185326439000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjH3MXWx4cDFQAAAAAdAAAAABAE">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AniketMeshram316&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
