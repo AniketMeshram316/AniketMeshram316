@@ -17,7 +17,7 @@ Hey there! 👋 I'm Aniket Meshram, a passionate DevOps Engineer on a mission to
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<img align="right" alt="coding" width="300" src="[https://github.com/AniketMeshram316/AniketMeshram316/blob/main/Gitgif.gif]">
+<img align="right" alt="coding" width="300" src="(https://github.com/AniketMeshram316/AniketMeshram316/blob/main/Gitgif.gif)">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AniketMeshram316&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
