@@ -1,7 +1,7 @@
 ![logo](https://github.com/AniketMeshram316/AniketMeshram316/blob/main/GitBanner.png)
 
 # 💫 About Me:
-Hey there! 👋 I'm Aniket Meshram, a passionate DevOps Engineer on a mission to blend cutting-edge technology with seamless operations. Currently pursuing my passion for DevOps, I thrive in dynamic environments where collaboration and innovation intersect. With a solid foundation in DevOps principles and a hunger for learning, I'm dedicated to optimizing workflows, automating processes, and driving continuous improvement. I love diving into the intricacies of infrastructure as code, CI/CD pipelines, and cloud technologies to build robust and scalable systems. Eager to contribute, learn, and grow within the vibrant DevOps community, I'm here to make waves and push boundaries!
+Hey there! 👋 I'm Aniket Meshram, a passionate DevOps Engineer on a mission to blend cutting-edge technology with seamless operations. Currently pursuing my passion for DevOps, I thrive in dynamic environments where collaboration and innovation intersect. With a solid foundation in DevOps principles and a hunger for learning, I'm dedicated to optimizing workflows, automating processes, and driving continuous improvement. I love diving into the intricacies of infrastructure as code, CI/CD pipelines, and cloud technologies to build robust and scalable systems. Eager to contribute, learn, and grow within the vibrant DevOps community, I'm here to make waves and push boundaries....!
 
 
 ## 🌐 Socials:
